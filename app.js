@@ -35,3 +35,5 @@ taskInput.addEventListener('keypress', function(event) {
         addTask();
     }
 });
+// Modificação para testar o git
+console.log("Tarefa editada");
