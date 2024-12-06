@@ -22,3 +22,10 @@ Este projeto visa desenvolver uma aplicação simples de cadastro de tarefas.
 - [ ] Programar a lógica do back-end (JavaScript).
 - [ ] Adicionar funcionalidades adicionais.
 - [ ] Criar documentação do projeto.
+## Lista de Tarefas
+
+- [x] Criar estrutura do site
+- [ ] Programar funcionalidade de login
+- [ ] Adicionar estilo CSS
+- [ ] Testar funcionalidades
+- [ ] Criar documentação
