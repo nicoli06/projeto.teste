@@ -17,10 +17,8 @@ Este projeto visa desenvolver uma aplicação simples de cadastro de tarefas.
 - **Semana 3**: Finalização e ajustes de estilo
 ## Lista de Tarefas
 
-- [ ] Configurar o ambiente de desenvolvimento
-- [ ] Criar a estrutura inicial do projeto
-- [ ] Implementar a funcionalidade de conversão de comprimento
-- [ ] Criar interface de usuário simples
-- [ ] Testar todas as funcionalidades
-- [ ] Escrever documentação
-- [ ] Fazer merge das branches
+- [ ] Criar a estrutura básica do site.
+- [ ] Implementar o front-end (HTML, CSS).
+- [ ] Programar a lógica do back-end (JavaScript).
+- [ ] Adicionar funcionalidades adicionais.
+- [ ] Criar documentação do projeto.
